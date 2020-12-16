@@ -1,0 +1,13 @@
+    {
+        "appear": "False",
+        "height": "1.65 m",
+        "img": "https://prod-api.theobjective.com/app/uploads/2015/02/merkel0219_1-976x612.jpg",
+        "name": "Angela Merkel"
+    },
+    ...
+    {
+        "appear": "False",
+        "height": "1.69 m",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Angelina_Jolie_2_June_2014_%28cropped%29.jpg",
+        "name": "Angelina Jolie"
+    }
